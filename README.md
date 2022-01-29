@@ -3,7 +3,7 @@
 I'm Hein Soe Full Stack Web Developer. I Spend most of time coding outstanding projects.
 
 
-[![Facebook Badge](https://img.shields.io/badge/-hheinsoee-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://www.facebook.com/hheinsoee/) 
+<!-- [![Facebook Badge](https://img.shields.io/badge/-hheinsoee-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://www.facebook.com/hheinsoee/)  -->
 [![Website Badge](https://img.shields.io/badge/-hi@heinsoe.com-c0392b?style=flat&labelColor=c0392b&logo=Mail.Ru&logoColor=white)](mailto:hi@heinsoe.com)
 
 
