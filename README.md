@@ -11,10 +11,9 @@
 <!--- ### StarDev Ranking
 
 <a href="https://stardev.io/developers/said7388"><img alt="Check out hheinsoee's profile on stardev.io" src="https://stardev.io/developers/hheinsoee/badge/languages/locality.svg" /></a>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hheinsoee&layout=compact&theme=merko&hide_border=true&&langs_count=6" /> 
+<img  src="https://github-readme-stats.vercel.app/api?username=hheinsoee&show_icons=true&theme=merko&hide_border=true" /> 
 
 --->
 as a web developer and designer committed to creating visually appealing and highly functional websites. With a focus on the latest trends and technologies, I strive to deliver exceptional web solutions that help businesses succeed online
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hheinsoee&layout=compact&theme=merko&hide_border=true&&langs_count=6" /> 
-<img  src="https://github-readme-stats.vercel.app/api?username=hheinsoee&show_icons=true&theme=merko&hide_border=true" /> 
 
